@@ -1,6 +1,5 @@
 import { component$ } from '@builder.io/qwik';
 import type { DocumentHead } from '@builder.io/qwik-city';
-import Avatar from '~/components/avatar/avatar';
 import Project from '~/components/project/project';
 
 export default component$(() => {

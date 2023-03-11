@@ -12,4 +12,4 @@ export default component$((props: ProjectProps) => {
 
 interface ProjectProps {
     title: string    
-};
+}
