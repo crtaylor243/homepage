@@ -7,7 +7,7 @@ export default component$(() => {
   return (
     <header>
       <a class="logo" href="/">
-        <img  src="/public/profile.svg" class="mx-4 h-16"></img>
+        <img  src="/profile.svg" class="mx-4 h-16"></img>
       </a>      
     </header>
   );
