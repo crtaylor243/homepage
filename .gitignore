@@ -62,3 +62,6 @@ qwik-app/
 .yarn/*
 !.yarn/releases
 .pnpm-store/*
+
+# Vercel
+.vercel
